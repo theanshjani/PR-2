@@ -2,7 +2,7 @@
 #include<conio.h>
 void main ()
 {
- int a,b;
+ int a;
  clrscr();
  cout<<"Enter the value of a:";
  cin>>a;
